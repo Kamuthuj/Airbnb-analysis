@@ -2,4 +2,5 @@
 
 I used an excel data set which did not contain null values and worked with Tableau to create visualizations that would help understand the distribution of Airbnbs and pricing based on different locations and zip code. The analysis also showed pricing based on the bedrooms and different peak seasons for the business.
 
+[Tableau Visualization](https://public.tableau.com/app/profile/jeff.kamuthu/viz/AirBnBproject_/Dashboard1)
 
